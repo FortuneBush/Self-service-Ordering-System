@@ -1,0 +1,14 @@
+H:\桌面\Vb实验汇总\WindowsApp1\obj\Debug\Self-service Ordering System.vbproj.AssemblyReference.cache
+H:\桌面\Vb实验汇总\WindowsApp1\obj\Debug\Self-service Ordering System.vbproj.SuggestedBindingRedirects.cache
+H:\桌面\Vb实验汇总\WindowsApp1\obj\Debug\WindowsApp1.OrderingSystem.resources
+H:\桌面\Vb实验汇总\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+H:\桌面\Vb实验汇总\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+H:\桌面\Vb实验汇总\WindowsApp1\obj\Debug\Self-service Ordering System.vbproj.GenerateResource.cache
+H:\桌面\Vb实验汇总\WindowsApp1\obj\Debug\Self-service Ordering System.vbproj.CoreCompileInputs.cache
+H:\桌面\Vb实验汇总\WindowsApp1\obj\Debug\WindowsApp1.exe
+H:\桌面\Vb实验汇总\WindowsApp1\obj\Debug\WindowsApp1.xml
+H:\桌面\Vb实验汇总\WindowsApp1\obj\Debug\WindowsApp1.pdb
+H:\桌面\Vb实验汇总\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+H:\桌面\Vb实验汇总\WindowsApp1\bin\Debug\WindowsApp1.exe
+H:\桌面\Vb实验汇总\WindowsApp1\bin\Debug\WindowsApp1.pdb
+H:\桌面\Vb实验汇总\WindowsApp1\bin\Debug\WindowsApp1.xml

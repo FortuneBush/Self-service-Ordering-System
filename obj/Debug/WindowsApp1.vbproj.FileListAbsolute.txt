@@ -1,0 +1,14 @@
+D:\VB Exercise\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\VB Exercise\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\VB Exercise\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\VB Exercise\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\VB Exercise\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\VB Exercise\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+D:\VB Exercise\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\VB Exercise\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\VB Exercise\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\VB Exercise\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\VB Exercise\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\VB Exercise\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\VB Exercise\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\VB Exercise\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
